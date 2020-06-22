@@ -1,6 +1,6 @@
 import markovify
 import sys
-from artist_lyrics_objects import *
+from classes import *
 
 
 band_name = sys.argv[1]
